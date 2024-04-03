@@ -21,3 +21,5 @@ DB_DATABASE=
 API_KEY=
 TOKEN_SECRET_KEY=
 ```
+## Links
+- [Repo del frontend](https://github.com/jheremy02/backend_myWalletApp_demo)
