@@ -7,7 +7,7 @@ const state_operation = Joi.string().valid("PENDING", "DONE" , 'DELETED')
 const id_type_category = Joi.number().integer()
 const description=Joi.string().max(255)
 const date_operation=Joi.date()
-const quantity=Joi.number().max(100000).message('Cantidad demasiada alta')
+const quantity=Joi.number()
 const id_account_money=Joi.number()
 
 
