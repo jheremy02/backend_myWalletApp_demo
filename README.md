@@ -7,7 +7,7 @@ MyWalletApp es una aplicación web que desarrollé desde cero, para este caso es
 ## try
 - git clone
 - npm install
-- load db.sql on your local
+- load db_backup.sql on your local
 - npm run dev
 ## nota
 Agregar un archivo .env para las variables globales
@@ -21,3 +21,5 @@ DB_DATABASE=
 API_KEY=
 TOKEN_SECRET_KEY=
 ```
+## Links
+- [Repo del frontend](https://github.com/jheremy02/backend_myWalletApp_demo)
